@@ -3,7 +3,8 @@ const pre = {
   addresss: 'ghar',
 };
 const testObj = {
-  book: 'jsts',
+  book: 'java',
+  sem:4
 };
 
 const objecto = { ...pre, ...testObj };
