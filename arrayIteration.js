@@ -4,8 +4,7 @@ for (let iterator of fruits) {
   console.log(iterator);
 }
 
-console.log(`^^^^^^`);
-console.log(`^^^^^^`);
+console.log(`******`);
 
 for (let iterator = 0; iterator <= fruits.length - 1; iterator++) {
   console.log(fruits[iterator]);

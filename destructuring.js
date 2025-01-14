@@ -1,12 +1,14 @@
 import { customerSettlementPage } from './exporterPage.js';
 
 const {
-  btnAccounting: ButtonBhaiX,
+  btnAccounting: ButtonBhaiY,
   btnCustomerSettlement,
   ostColSearch,
   invoiceTableRowValue,
 } = customerSettlementPage;
 
 console.log(
-  `${ButtonBhaiX}-${btnCustomerSettlement}-${ostColSearch}-${invoiceTableRowValue}-`
+  `${ButtonBhaiY}-${btnCustomerSettlement}-${ostColSearch}-${invoiceTableRowValue}-`
 );
+
+console.log(`the end`);
