@@ -5,6 +5,6 @@ console.log(
   greeting({
     name: 'atul',
     addresss: 'Canada',
-    year: 2025
+    thisYear: 2025
   })
 );
