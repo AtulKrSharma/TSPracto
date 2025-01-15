@@ -3,7 +3,7 @@
 const customerSettlementPage = {
   btnAccounting: 10,
   btnCustomerSettlement: {
-    primary: 'Missi',
+    primary: 'Mississauga',
     secondary: 'Brampton',
   },
 };
