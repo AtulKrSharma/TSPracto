@@ -7,7 +7,7 @@ const arrFilter = (arr) => {
 console.log(arrFilter(fruits));
 
 /**
- * foreach
+ * foreachYY
  * every
  * * fiter
  * reduce
