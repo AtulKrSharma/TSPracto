@@ -8,7 +8,7 @@ console.log(arrFilter(fruits));
 
 /**
  * foreach
- * every
+ * everyRR
  * * fiter
  * reduce
  * map
